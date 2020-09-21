@@ -1,0 +1,6 @@
+export { Header } from './Header'
+export { Home } from './Home'
+export { Event } from './Event'
+export { Events } from './Events'
+export { About } from './about'
+export { Contact } from './contact'
