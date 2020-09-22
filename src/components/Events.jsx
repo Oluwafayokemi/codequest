@@ -30,7 +30,8 @@ export const Events = () => {
                         <p>
                           An online Programming Webinar training for all
                           beginners who would love to build a career in Software
-                          Development{' '}
+                          Development.  
+
                         </p>
                         <Link to='/event' className='btn btn-default'>
                           Discover

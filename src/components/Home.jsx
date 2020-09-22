@@ -14,13 +14,13 @@ export const Home = () => {
                   <h1>
                     <br />
                     <div>
-                      <span>
+                      <span id='typed-strings'>
                         Begin Setting Up Your Career Path In Software
                         Development In 60 Days Or Less
                       </span>
                     </div>
-                    <Link to="/events">
-                      <button className='btn-class'>Click Here to Begin</button>
+                    <Link to='/events'>
+                      <button className='btn-class'>Click Here To Begin</button>
                     </Link>
                   </h1>
                 </div>

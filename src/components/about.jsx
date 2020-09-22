@@ -23,14 +23,15 @@ export const About = () => {
                     </p>
                     <h3>Raising Great Nerds</h3>
                     <p>
-                      With great passion, tools and technical expertise, we put
-                      would invest in your future and dreams of becoming the
+                      With great passion, tools and technical expertise, we 
+                      would be most privileged to have you allow us 
+                      invest in your future and dreams of becoming the
                       great Nerd you have always seen in your visions
                     </p>
                     <h3>We have the Best Mentors</h3>
                     <p>
                       We put in a lot of work and trainings to ensure that we
-                      offer the best training service to our students/trainees
+                      offer the best training service to our partners.
                     </p>
                   </div>
                   <div className='col-xs-12 col-md-6'>
